@@ -1,13 +1,5 @@
-// Delete Between the Double Shlashes
-
-//
-# Project Template Repo
-## This is the template repo for the Project Universe repo.
-//
-
-
-# Project Name
-## Project Discription
+# supreme-tribble
+## Mega API including weather, basic image things, integration with refactored-computing-machine, and more
 ## You can join our discord server at [https://discord.gg/7GY6VPvuGj](https://discord.gg/7GY6VPvuGj)
 
 ### _Awaiting dev. Contact if interested._
